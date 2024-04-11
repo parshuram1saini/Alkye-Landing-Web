@@ -1,0 +1,56 @@
+.flex-row{
+    display: flex;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.primary-color{
+    color: #F36F2B;
+}
+.primary-bg-color{
+    background-color: #112C41;
+}
+.white-color{
+    color: #FFFFFF;
+}
+.black-color{
+    color: #000000;
+}
+.font-size-13{
+    font-size: 13px;
+}
+.font-size-24{
+    font-size: 24px;
+}
+
+.font-size-48{
+    font-size: 48px;
+}
+.width-100{
+   width: 100%;
+}
+.height-100{
+   height: 100%;
+}
+.object-fit-cover{
+    object-fit: cover;
+}
+.font-Inter{
+    font-family: Inter;
+}
+.font-Oswald{
+    font-family: Oswald;
+}
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+.cursor-pointer{
+    cursor: pointer;
+}

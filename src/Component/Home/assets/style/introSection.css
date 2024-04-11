@@ -1,0 +1,13 @@
+.intro-title{
+    margin-left: 20px !important;
+    color: #000000 !important;
+    font-weight: 600 !important;
+}
+.intro-description{
+    font-size: 13px !important;
+    margin-left: 45px !important;
+    margin-right: 10% !important;
+    color: #6B6B6B !important;
+    line-height: 20px !important;
+    letter-spacing: 0.3px !important;
+}
